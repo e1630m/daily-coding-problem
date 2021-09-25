@@ -1,6 +1,6 @@
-# Daily Coding Problem Solutions
+# [Daily Coding Problem](https://www.dailycodingproblem.com/) Solutions
 ## Problem #1 [Easy]
-Solutions: [py](https://github.com/e1630m/daily-coding-problem/blob/main/py/p0001.py)
+Solutions: [py](./py/p0001.py)
 
 Good morning! Here's your coding interview problem for today.
 
