@@ -1,4 +1,4 @@
-# Daily Coding Problem
+# Daily Coding Problem Solutions
 ## Problem #1 [Easy]
 Solutions: [py](https://github.com/e1630m/daily-coding-problem/blob/main/py/p0001.py)
 
