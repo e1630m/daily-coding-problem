@@ -14,4 +14,3 @@ def cdr(cons):
 
 print('car(cons(3, 4)):', car(cons(3, 4)))
 print('cdr(cons(3, 4)):', cdr(cons(3, 4)))
-
