@@ -298,3 +298,15 @@ For example, given `array = [10, 5, 2, 7, 8, 7]` and `k = 3`, we should get: `[1
 * 8 = max(7, 8, 7)
 
 Do this in `O(n)` time and `O(k)` space. You can modify the input array in-place and you do not need to store the results. You can simply print them out as you compute them.
+
+
+## Problem 19 [Medium]
+Solutions: [py](.py/p0019.py)
+
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Facebook.
+
+A builder is looking to build a row of `N` houses that can be of `K` different colors. He has a goal of minimizing cost while ensuring that no two neighboring houses are of the same color.
+
+Given an `N` by `K` matrix where the `n`th row and `k`th column represents the cost to build the `n`th house with `k`th color, return the minimum cost which achieves this goal.
