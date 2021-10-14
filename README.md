@@ -310,3 +310,19 @@ This problem was asked by Facebook.
 A builder is looking to build a row of `N` houses that can be of `K` different colors. He has a goal of minimizing cost while ensuring that no two neighboring houses are of the same color.
 
 Given an `N` by `K` matrix where the `n`th row and `k`th column represents the cost to build the `n`th house with `k`th color, return the minimum cost which achieves this goal.
+
+
+## Problem 20 [Easy]
+Solutions: [py](.py/p0020.py)
+
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical.
+
+For example, given `A = 3 -> 7 -> 8 -> 10` and `B = 99 -> 1 -> 8 -> 10`, return the node with value `8`.
+
+In this example, assume nodes with the same value are the exact same node objects.
+
+Do this in O(M + N) time (where `M` and `N` are the lengths of the lists) and constant space.
