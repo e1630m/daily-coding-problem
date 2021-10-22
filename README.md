@@ -423,3 +423,17 @@ Given a singly linked list and an integer `k`, remove the `k`th last element fro
 The list is very long, so making more than one pass is prohibitively expensive.
 
 Do this in constant space and in one pass.
+
+
+## Problem 27 [Easy]
+Solutions: [py](.py/p0027.py)
+
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Facebook.
+
+Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed).
+
+For example, given the string `"([])[]({})"`, you should return `true`.
+
+Given the string `"([)]"` or `"((()"`, you should return `false`.
